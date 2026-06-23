@@ -1,0 +1,6 @@
+{
+  "name": "Artwork Barcode Verification Tool",
+  "description": "A precise pre-press QC tool to extract and validate artwork barcode data against specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
